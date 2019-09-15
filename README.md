@@ -1,6 +1,6 @@
 # Flash Notes
 
-By: William Tran, Calvin Dong, Nick Makharimets, and Russel Zhang
+By: Russel Zhang, Calvin Dong, Nick Makharimets, and William Tran
 
 Summary
 -----------
