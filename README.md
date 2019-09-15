@@ -1,6 +1,3 @@
-# flash-notes
-Web app that uses natural language processing to automatically generate flashcards based on typed notes.
-
 # Flash Notes
 
 By: William Tran, Calvin Dong, Nick Makharimets, and Russel Zhang
