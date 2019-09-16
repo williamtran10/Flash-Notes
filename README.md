@@ -1,6 +1,7 @@
 # Flash Notes
 
 By: Russel Zhang, Calvin Dong, Nick Makharimets, and William Tran
+Created during Hack The North 2019
 
 Summary
 -----------
